@@ -18,13 +18,16 @@ Other Usage:
 
 What data or information have you been able to leverage with Generative AI?
 The following information and resource has leveraged in the project. 
+
         1. Bloomberg market news 
         2. Python library: moviepy, 
         3. ML library: OpenAI whisper
         4. OpenAI API Assistant API
         5. .Mp4 video source
+        
 Have you delved into any specific Generative AI frameworks or tools? (If applicable, include links to code repositories, videos, or other websites that demonstrate what you've been working on)
 The development of project 1 is completed, so please refer to following information. 
+
         1. Repositories: https://github.com/jjsk-project/GenAI-Video_Summarization.git 
         2. Code: In GitHub repositories.
         3. Demo video: In GitHub repositories.
