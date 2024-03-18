@@ -1,4 +1,5 @@
 Read me please:
+Please have a look at the PowerPoint file and Demo-video file attached. 
 
 Q: What challenges are you looking to solve for you clients with Generative AI and are you actively engaged in conversations?
 Main Usage: 
