@@ -8,9 +8,9 @@ Client Engagement (Keep up with the latest industry news)
 The purpose of this project is to provide a summarization of daily news and market trends. It is hard to keep track of all the market news. 
 
 For example, Bloomberg TV publishes daily news: 
-Bloomberg Daybreak: Australia 03/01/2024 - 45mins
-Bloomberg Daybreak: Asia 03/01/2024 - 48mins
-Bloomberg Markets: The Close 02/29/2024 - 1hr 34mins
+- Bloomberg Daybreak: Australia 03/01/2024 - 45mins
+- Bloomberg Daybreak: Asia 03/01/2024 - 48mins
+- Bloomberg Markets: The Close 02/29/2024 - 1hr 34mins
 
 It is hard to keep track of everything, but this LLM tool can help summarize 1.5 hours of market news into 5 minutes of reading.
 This also applies to understanding the background for the tender project, for example, it is important to understand the energy market while preparing the tender proposal in the coal industry.
