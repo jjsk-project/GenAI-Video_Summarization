@@ -3,7 +3,6 @@ Please have a look at the PowerPoint file and Demo-video file attached.
 
 Q: What challenges are you looking to solve for you clients with Generative AI and are you actively engaged in conversations?
 Main Usage: 
-Main Usage: 
 Client Engagement (Keep up with the latest industry news) 
 
 The purpose of this project is to provide a summarization of daily news and market trends. It is hard to keep track of all the market news. 
